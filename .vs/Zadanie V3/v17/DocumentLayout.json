@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rdkkn\\Zadanie V3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|C:\\Users\\rdkkn\\Zadanie V3\\assets\\scripts\\tilemapscripts\\tilemapstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapscripts\\tilemapstructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|c:\\users\\rdkkn\\zadanie v3\\assets\\scripts\\tilemapscripts\\tilemaptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapscripts\\tilemaptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|c:\\users\\rdkkn\\zadanie v3\\assets\\scripts\\noisescripts\\noisegeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\noisescripts\\noisegeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|C:\\Users\\rdkkn\\Zadanie V3\\assets\\scripts\\noisescripts\\noise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\noisescripts\\noise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|c:\\users\\rdkkn\\zadanie v3\\assets\\scripts\\tilemapscripts\\tilegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapscripts\\tilegrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|c:\\users\\rdkkn\\zadanie v3\\assets\\scripts\\tilemapscripts\\objecttiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C30F82-247D-13DF-8FAF-5BDE8C38E097}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapscripts\\objecttiletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TilemapType.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TilemapType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TilemapScripts\\TilemapType.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TilemapType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TilemapScripts\\TilemapType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:38:35.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoiseGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\NoiseScripts\\NoiseGeneration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoiseScripts\\NoiseGeneration.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\NoiseScripts\\NoiseGeneration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoiseScripts\\NoiseGeneration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:08:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ObjectTileType.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\ObjectTileType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TilemapScripts\\ObjectTileType.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\ObjectTileType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TilemapScripts\\ObjectTileType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T13:23:35.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Noise.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\NoiseScripts\\Noise.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NoiseScripts\\Noise.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\NoiseScripts\\Noise.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NoiseScripts\\Noise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T01:36:23.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TilemapStructure.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TilemapStructure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TilemapScripts\\TilemapStructure.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TilemapStructure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TilemapScripts\\TilemapStructure.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:43:49.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TileGrid.cs",
+              "DocumentMoniker": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TileGrid.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TilemapScripts\\TileGrid.cs",
+              "ToolTip": "C:\\Users\\rdkkn\\Zadanie V3\\Assets\\Scripts\\TilemapScripts\\TileGrid.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TilemapScripts\\TileGrid.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T00:17:32.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
